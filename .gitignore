@@ -1,0 +1,21 @@
+# Python Environment
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# Security (SANGAT PENTING!)
+.env
+
+# Local Data & Uploads
+uploads/
+data.json
+
+# Logs & Debug
+*.log
+pip-log.txt
+
+# Editor Settings
+.vscode/
+.idea/
